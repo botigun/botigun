@@ -1,6 +1,6 @@
 {
-  "name": "BetaBOT",
-  "version": "1.0.0",
+  "nama" : "BOTIGUN" ,
+  "versi" : "1.0.0" ,
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
   "directories": {
@@ -39,8 +39,8 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
-  "license": "ISC",
+  "penulis" : "IGUN" ,
+  "lisensi" : "ISC" ,
   "bugs": {
     "url": "https://github.com/benisadewa/kntnbotwa/issues"
   },
